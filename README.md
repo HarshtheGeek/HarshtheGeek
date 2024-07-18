@@ -1,27 +1,25 @@
+<h1 align="center">Hi 👋, I'm Harsh Vishwakarma</h1>
+<h3 align="center">A 2nd year student, currently pursuing B.Tech from Maharishi Markandeshwar Deemed to be University</h3>
 
-# Hi there, I'm Harsh 👋
+- 🌱 I’m currently learning **Solidity**
 
-I'm diving into blockchain development with Solidity, while also being a coding enthusiast proficient in various languages. My skills extend to creating intuitive mobile apps with Flutter, designing sleek UIs using Figma and Adobe Illustrator, and crafting compelling visuals with Adobe Premiere Pro and After Effects. With expertise spanning blockchain, app development, UI design, and video editing, I'm ready to tackle any project requiring creativity and technical finesse.
+- 💬 Ask me about **Blockchain, application development, UI/UX design and video editing**
 
-## 🌱 Currently Learning
-- **Solidity**: Mastering smart contract development for decentralized applications.
-- **Blockchain Interoperability**: Exploring ways to connect different blockchain ecosystems.
-- **Advanced Flutter Techniques**: Enhancing user experiences with animations and state management.
+- 📫 How to reach me **harshh31linkedin@gmail.com**
 
-## 👀 Interests
-- **Blockchain Development**: Building decentralized applications and exploring the future of finance.
-- **Mobile App Development**: Creating seamless experiences for iOS and Android platforms using flutter.
-- **UI/UX Design**: Designing interfaces that are not only beautiful but also user-friendly.
-- **Video Editing**: Transforming raw footage into engaging stories with visual effects.
+- 📄 Know about my experiences [I'm diving into blockchain development with Solidity, while also being a coding enthusiast proficient in various languages. My skills extend to creating intuitive mobile apps with Flutter, designing sleek UIs using Figma and Adobe Illustrator, and crafting compelling visuals with Adobe Premiere Pro and After Effects. With expertise spanning blockchain, app development, UI design, and video editing, I'm ready to tackle any project requiring creativity and technical finesse.](I'm diving into blockchain development with Solidity, while also being a coding enthusiast proficient in various languages. My skills extend to creating intuitive mobile apps with Flutter, designing sleek UIs using Figma and Adobe Illustrator, and crafting compelling visuals with Adobe Premiere Pro and After Effects. With expertise spanning blockchain, app development, UI design, and video editing, I'm ready to tackle any project requiring creativity and technical finesse.)
 
-## 💼 Looking to Collaborate On
-- Projects that push the boundaries of blockchain technology and mobile app development.
-- Initiatives focused on innovative UI/UX solutions for digital products.
-- Video production ventures that require storytelling through editing and effects.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harsh vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh vishwakarma" height="30" width="40" /></a>
+<a href="https://instagram.com/_.harsh.10_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.harsh.10_" height="30" width="40" /></a>
+</p>
 
-## 📫 How to Reach Me
-- **LinkedIn**: [HarshtheGeek](https://www.linkedin.com/in/harshthegeek/)
-- **Email**:
-- **Portfolio**: 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## ⚡ Let's Connect and Create Something Awesome Together!
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshthegeek&show_icons=true&locale=en&layout=compact" alt="harshthegeek" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshthegeek&show_icons=true&locale=en" alt="harshthegeek" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshthegeek&" alt="harshthegeek" /></p>
