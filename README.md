@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Vishwakarma</h1>
 <h3 align="center">A 2nd year student, currently pursuing B.Tech from Maharishi Markandeshwar Deemed to be University</h3>
+(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.replit.com%2Fsolidity&psig=AOvVaw3esw6fWhtKig03GTmT9R_j&ust=1721417767165000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNC_tJGrsYcDFQAAAAAdAAAAABAE")
 
 - 🌱 I’m currently learning **Solidity**
 
