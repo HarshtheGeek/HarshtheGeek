@@ -1,7 +1,9 @@
 # 💫 About Me:
-A 2nd year student, currently pursuing B.Tech from Maharishi Markandeshwar Deemed to be University<br>🌱 I’m currently learning Solidity<br><br>💬 Ask me about Blockchain, application development, UI/UX design and video editing<br><br>📫 How to reach me harshh31linkedin@gmail.com<br><br>📄 Know about my experiences [I'm diving into blockchain development with Solidity, while also being a coding enthusiast proficient in various languages. My skills extend to creating intuitive mobile apps with Flutter, designing sleek UIs using Figma and Adobe Illustrator, and crafting compelling visuals with Adobe Premiere Pro and After Effects. With expertise spanning blockchain, app development, UI design, and video editing, I'm ready to tackle any project requiring creativity and technical finesse.]
-
+A 2nd year student, currently pursuing B.Tech from Maharishi Markandeshwar Deemed to be University<br>
+🌱 I’m currently learning Solidity<br><br>💬 Ask me about Blockchain, application development, UI/UX design and video editing<br>
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/bj34pdbp/migration/d5ee6d65f086d25debf43d55e034d7184d545451-2048x1152.jpg">
+<br>📫 How to reach me harshh31linkedin@gmail.com<br>
+<br>📄 Know about my experiences [I'm diving into blockchain development with Solidity, while also being a coding enthusiast proficient in various languages. My skills extend to creating intuitive mobile apps with Flutter, designing sleek UIs using Figma and Adobe Illustrator, and crafting compelling visuals with Adobe Premiere Pro and After Effects. With expertise spanning blockchain, app development, UI design, and video editing, I'm ready to tackle any project requiring creativity and technical finesse.]
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.harsh.10_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harsh vishwakarma) 
