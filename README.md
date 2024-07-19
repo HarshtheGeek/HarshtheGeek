@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **harshh31linkedin@gmail.com**
 
-- 📄 Know about my experiences [I'm diving into blockchain development with Solidity, while also being a coding enthusiast proficient in various languages. My skills extend to creating intuitive mobile apps with Flutter, designing sleek UIs using Figma and Adobe Illustrator, and crafting compelling visuals with Adobe Premiere Pro and After Effects. With expertise spanning blockchain, app development, UI design, and video editing, I'm ready to tackle any project requiring creativity and technical finesse.](I'm diving into blockchain development with Solidity, while also being a coding enthusiast proficient in various languages. My skills extend to creating intuitive mobile apps with Flutter, designing sleek UIs using Figma and Adobe Illustrator, and crafting compelling visuals with Adobe Premiere Pro and After Effects. With expertise spanning blockchain, app development, UI design, and video editing, I'm ready to tackle any project requiring creativity and technical finesse.)
+- 📄 Know about my experiences [I'm diving into blockchain development with Solidity, while also being a coding enthusiast proficient in various languages. My skills extend to creating intuitive mobile apps with Flutter, designing sleek UIs using Figma and Adobe Illustrator, and crafting compelling visuals with Adobe Premiere Pro and After Effects. With expertise spanning blockchain, app development, UI design, and video editing, I'm ready to tackle any project requiring creativity and technical finesse.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
