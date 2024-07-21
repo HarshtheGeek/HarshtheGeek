@@ -1,7 +1,7 @@
 # 💫 About Me:
 A 2nd year student, currently pursuing B.Tech from Maharishi Markandeshwar Deemed to be University<br>
 I’m currently diving deep into WEB3<br><br>💬 Ask me about Blockchain, application development, UI/UX design and video editing<br>
-<img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/bj34pdbp/migration/d5ee6d65f086d25debf43d55e034d7184d545451-2048x1152.jpg">
+<img align="right" alt="Coding" width="200" src="https://cdn.sanity.io/images/bj34pdbp/migration/d5ee6d65f086d25debf43d55e034d7184d545451-2048x1152.jpg">
 <br>📫 How to reach me harshh31linkedin@gmail.com<br>
 
 ## 🌐 Socials:
