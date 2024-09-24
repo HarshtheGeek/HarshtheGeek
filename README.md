@@ -13,8 +13,6 @@ Resume: 'https://docs.google.com/document/d/1cRuqnYxgOiejcixdLYXQfIJpdVSVrxpM_Yu
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HarshtheGeek&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshtheGeek&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
----
+
 [![](https://visitcount.itsvg.in/api?id=HarshtheGeek&icon=2&color=1)](https://visitcount.itsvg.in)
 
