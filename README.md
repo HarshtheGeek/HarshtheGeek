@@ -1,7 +1,7 @@
 # 💫 About Me
 I love crafting apps that are so eye-pleasing, they'll make unicorns jealous!<br><br>My mission? To be the tech superhero who swoops in to help people in need 🦸‍♂️<br><br>When I'm not saving the day with code, you'll find me diving into the blockchain rabbit hole or unleashing my inner Picasso by designing and editing videos in my free time :)
 
-[Resume](https://docs.google.com/document/d/1cRuqnYxgOiejcixdLYXQfIJpdVSVrxpM_YuleBmTj7Q/edit)
+ My Resume : [Resume](https://docs.google.com/document/d/1cRuqnYxgOiejcixdLYXQfIJpdVSVrxpM_YuleBmTj7Q/edit)
 
 
 # 🌐 Socials:
