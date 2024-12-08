@@ -1,5 +1,5 @@
 # 💫 About Me:
-I design, code and edit, making technology a bit more fun.
+I design, code and edit, making technology a bit more fun!
 
 
 ## 🌐 Socials:
