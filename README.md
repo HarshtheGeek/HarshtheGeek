@@ -2,9 +2,9 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
     <p style="font-size: 16px; line-height: 1.6;">
-      👋 Hi, I'm <strong>Harsh</strong>! I love designing, coding, and editing, making <br> 
+      Hi, I'm <strong>Harsh</strong>! I design, code and editi, making <br> 
       technology a bit more fun and creative. 🚀 <br><br>
-      🎯 I aim to combine technology with aesthetics to craft meaningful experiences.
+      Aiming to combine technology with aesthetics to craft meaningful experiences.
     </p>
   </div>
   <div style="flex-shrink: 0;">
