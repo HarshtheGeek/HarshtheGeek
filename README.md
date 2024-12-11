@@ -1,8 +1,13 @@
-# 💫 About Me:
+# ✨ About Me:
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
     <p style="font-size: 16px; line-height: 1.6;">
       Hi, I'm <strong>Harsh</strong>! I design, code and edit, making technology a bit more fun and creative. 🚀 <br>
+      <br>
+      <strong>🏆 Achievements:</strong><br>
+      • Google Android Application Challenge Winner 2024 📚<br>
+      • Flutter Developer Intern @ Medcortico 💡<br>
+      • Core Team Member at Google Developer Student Clubs 🔧
     </p>
   </div>
   <div style="flex-shrink: 0;">
@@ -12,7 +17,6 @@
   </div>
 </div>
 
----
 
 ## 🌐 Socials:
 <div style="display: flex; gap: 10px;">
@@ -23,5 +27,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
