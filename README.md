@@ -1,6 +1,6 @@
-# Hello There :)
+![Header](./github-header-image.png)
 
-bonjour! i code, edit and design
+I specialize in building **mobile applications** that are user-centric, scalable, and performance-driven.
 
-📧 vishwaharsh10@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in/harshv10](https://www.linkedin.com/in/harsh-vishwakarma-b32a51286/))
+📫 **Email:** [vishwaharsh10@gmail.com](mailto:vishwaharsh10@gmail.com)  
+🔗 **LinkedIn:** [Harsh Vishwakarma](https://www.linkedin.com/in/harsh-vishwakarma-b32a51286/)
