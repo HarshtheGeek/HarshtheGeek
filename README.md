@@ -1,4 +1,4 @@
-<h2 align="center">🙏 Bonjour • Hola • Namaste • Hello 🙏</h2>
+<h2 align="center">🙏 Bonjour • Hola • Namaste 🙏</h2>
 
 <p align="center">
   I build <strong>user-centric mobile applications</strong> that are beautifully designed and performant.
@@ -9,7 +9,6 @@
        alt="Mobile Development Animation" 
        width="250">
 </p>
-
 
 <h3 align="center">Get in Touch</h3>
 
