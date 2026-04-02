@@ -1,11 +1,5 @@
 <h2 align="center">Bonjour • Hola • Namaste</h2>
 
-<p align="center">
-  <img src="https://tenor.com/view/lua-luality-horse-dance-horsedance-gif-27421731" 
-       alt="Mobile Development Animation" 
-       width="250">
-</p>
-
 <h3 align="center">Get in Touch</h3>
 
 <p align="center">
